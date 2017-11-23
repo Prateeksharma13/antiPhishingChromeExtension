@@ -8,5 +8,8 @@
 				"16" : "logo_chrome.png",
 				"48" : "browser.svg",
 				"128" : "browser.svg"
-			  }
+			  },
+	"browser_action": {
+    	"default_icon": "logo_chrome.png"
+	}
 }
